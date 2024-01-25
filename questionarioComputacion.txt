@@ -1,23 +1,10 @@
 programacion:
 
-Aprendizaje de Programación:
+¿te gustaria aprender JavaScript?
 
-Inicios en programación (JavaScript):
+¿te gustaria aprender Python?
 
-En una escala del 1 al 10, ¿ que nivel de conocimientos tienes de JavaScript?
-
-Inicios en programación (Python):
-
-En una escala del 1 al 10, ¿ que nivel de conocimientos tienes de Python?
-
-Conocimientos intermedios en programación (JavaScript):
-
-Programación web (HTML/CSS):
-
-En una escala del 1 al 10, ¿cómo calificarías tus conocimientos en HTML y CSS?
-
-Desarrollo de aplicaciones móviles:
+¿te gustaria aprender diseno web utilizando HTML y CSS?
 
 ¿te interesa aprender a programar aplicaciones para móviles, ya sea para Android o iOS?
-
 
