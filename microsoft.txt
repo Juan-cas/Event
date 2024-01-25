@@ -1,0 +1,133 @@
+Lección 1: Introducción a Microsoft Word
+
+Objetivo: Conocer la interfaz y las funciones básicas de Word.
+1.1. Abrir Microsoft Word:
+
+Doble clic en el icono de Word o busca "Word" en el menú de inicio.
+1.2. Interfaz de usuario:
+
+Barra de herramientas.
+Cinta de opciones.
+Área de trabajo.
+Lección 2: Crear y Guardar Documentos
+
+Lección 1: Introducción a Microsoft Word
+
+Atajos:
+Ctrl + O: Abrir documento.
+Ctrl + S: Guardar documento.
+Ctrl + N: Crear nuevo documento.
+
+Objetivo: Aprender a crear, editar y guardar documentos.
+2.1. Crear un nuevo documento:
+
+Archivo > Nuevo > Documento en blanco.
+2.2. Escribir y editar texto:
+
+Introducción de texto.
+Edición básica (copiar, cortar, pegar).
+2.3. Guardar un documento:
+
+Archivo > Guardar como.
+Seleccionar ubicación y nombre de archivo.
+Lección 3: Formato de Texto y Párrafo
+
+Lección 2: Crear y Guardar Documentos
+
+Atajos:
+Ctrl + C: Copiar.
+Ctrl + X: Cortar.
+Ctrl + V: Pegar.
+
+Objetivo: Entender cómo dar formato al texto y alineación de párrafos.
+3.1. Formato de texto:
+
+Negrita, cursiva, subrayado.
+Tamaño y tipo de fuente.
+Color del texto.
+3.2. Formato de párrafo:
+
+Alineación (izquierda, centrado, derecha, justificado).
+Sangrías y espaciado.
+
+Lección 3: Formato de Texto y Párrafo
+
+Atajos:
+Ctrl + B: Negrita.
+Ctrl + I: Cursiva.
+Ctrl + U: Subrayado.
+Ctrl + E: Alinear al centro.
+Ctrl + J: Justificar.
+
+Lección 4: Listas y Viñetas
+
+Objetivo: Aprender a crear listas y viñetas.
+4.1. Crear listas numeradas y con viñetas:
+
+Utilizar la opción de listas en la cinta de opciones.
+
+Atajo:
+Ctrl + L: Crear lista con viñetas.
+
+Lección 5: Tablas y Gráficos
+
+Objetivo: Conocer cómo insertar y dar formato a tablas y gráficos.
+5.1. Insertar tablas:
+
+Utilizar la opción de tablas en la cinta de opciones.
+5.2. Dar formato a tablas:
+
+Ajustar bordes y sombreado.
+
+Atajos:
+Ctrl + T: Insertar tabla.
+
+Lección 6: Imágenes y Diseño de Página
+
+Objetivo: Insertar imágenes y configurar el diseño de página.
+6.1. Insertar imágenes:
+
+Imágenes desde archivo o en línea.
+6.2. Diseño de página:
+
+Márgenes, orientación, tamaño del papel.
+
+Lección 6: Imágenes y Diseño de Página
+
+Atajos:
+Ctrl + P: Ir a la configuración de impresión.
+
+Lección 7: Revisión y Comentarios
+
+Objetivo: Aprender a revisar y realizar comentarios en el documento.
+7.1. Revisión de ortografía y gramática:
+
+Utilizar la herramienta de revisión.
+7.2. Comentarios:
+
+Insertar y responder a comentarios.
+
+Lección 7: Revisión y Comentarios
+
+Atajos:
+F7: Revisar ortografía y gramática.
+Ctrl + Alt + M: Insertar comentario.
+
+Lección 8: Impresión
+
+Objetivo: Conocer las opciones de impresión.
+8.1. Vista previa de impresión:
+
+Revisar el documento antes de imprimir.
+8.2. Configuración de impresión:
+
+Seleccionar impresora y ajustar configuración.
+
+Lección 8: Impresión
+
+Atajos:
+Ctrl + P: Abrir la ventana de impresión.
+Ctrl + F2: Vista previa de impresión.
+
+¡Con estos conceptos básicos, deberías sentirte más cómodo utilizando Microsoft Word! 
+Recuerda que la práctica constante te ayudará a mejorar tus habilidades.

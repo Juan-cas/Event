@@ -1,0 +1,11 @@
+gamificado con aventuras estilo rpg
+
+una planta visual para las rachas.
+
+un questionario inicial para determinar el nivel (en vistas a futuro de utilizar conocimiento de una psicologa para mejorar el test
+y volverlo un test vocacional.)
+
+si se completan milestones se le manda algun regalo/chapa/etc.
+
+comandos por voz para relacionarse con el bot, para temas de accesibilidad.
+lectura de comandos de bot para personas con problemas visuales
