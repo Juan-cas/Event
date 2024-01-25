@@ -1,0 +1,102 @@
+Lección 1: Estilos y Temas
+
+Objetivo: Aprender a utilizar estilos para dar formato consistente al documento y aplicar temas para cambiar la apariencia global.
+
+1.1. Aplicar estilos de texto:
+
+Crear, modificar y aplicar estilos.
+Ctrl + Shift + S: Abrir el panel de estilos.
+
+1.2. Aplicar temas al documento:
+
+Cambiar la apariencia general del documento.
+Alt + G, T: Acceder al menú de temas.
+Lección 2: Índices y Referencias Cruzadas
+
+Objetivo: Conocer cómo crear y gestionar índices y referencias cruzadas en el documento.
+
+2.1. Crear un índice:
+
+Generar índices automáticos y personalizados.
+Alt + Shift + O, I: Insertar un índice.
+
+2.2. Insertar referencias cruzadas:
+
+Vincular partes del documento para facilitar la navegación.
+Alt + Shift + O, X: Insertar referencia cruzada.
+Lección 3: Tabulaciones Avanzadas
+
+Objetivo: Dominar las tabulaciones para alinear y organizar el texto de manera más precisa.
+
+3.1. Configurar tabulaciones:
+
+Establecer tabulaciones personalizadas.
+Ctrl + Tab: Moverse entre las tabulaciones.
+
+3.2. Líderes de tabulación:
+
+Utilizar líderes para mejorar la presentación.
+Lección 4: Combinar Correspondencia
+
+Objetivo: Aprender a utilizar la función de combinar correspondencia para personalizar documentos.
+
+4.1. Crear una lista de destinatarios:
+
+Importar y organizar datos.
+Alt + Shift + O, R: Iniciar la combinación de correspondencia.
+
+4.2. Combinar correspondencia:
+
+Crear cartas personalizadas y otros documentos.
+
+Lección 5: Comentarios Avanzados y Control de Cambios
+
+Objetivo: Explorar funciones más avanzadas de revisión y colaboración en el documento.
+
+5.1. Comparar documentos:
+
+Revisar cambios entre diferentes versiones.
+Alt + R, C: Comparar documentos.
+
+5.2. Control de cambios:
+
+Registrar y revisar cambios realizados en el documento.
+Ctrl + Shift + E: Activar/desactivar el control de cambios.
+Lección 6: Macros y Automatización
+
+Objetivo: Introducción a la automatización de tareas mediante la creación y ejecución de macros.
+
+6.1. Grabar una macro:
+
+Automatizar secuencias de comandos repetitivas.
+Alt + T, M, R: Abrir el gestor de macros.
+
+6.2. Ejecutar y gestionar macros:
+
+Utilizar y personalizar macros para aumentar la eficiencia.
+
+Lección 7: Seguridad y Protección del Documento
+
+Objetivo: Aprender a proteger el documento y gestionar permisos.
+
+7.1. Establecer contraseñas:
+
+Proteger el acceso al documento.
+Alt + F, I, P: Establecer una contraseña.
+
+7.2. Gestionar permisos:
+
+Controlar quién puede editar y revisar el documento.
+Lección 8: Colaboración en Línea
+
+Objetivo: Explorar las funciones de colaboración en línea y almacenamiento en la nube.
+
+8.1. Compartir documentos en la nube:
+
+Colaborar en tiempo real con otras personas.
+Ctrl + Alt + S: Guardar en la nube.
+
+8.2. Comentarios en línea:
+
+Discutir y revisar documentos en un entorno colaborativo.
+Estos atajos de teclado te ayudarán a trabajar de manera más eficiente mientras aplicas las funciones intermedias de Microsoft Word. ¡Espero que encuentres útil este curso revisado!
